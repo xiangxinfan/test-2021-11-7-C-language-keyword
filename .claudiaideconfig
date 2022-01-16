@@ -1,0 +1,22 @@
+﻿{
+  "BackgroundImageAbsolutePath": "E:\\图片\\background\\9D00F13E4569C6B423D72C2F24D81190.jpg",
+  "BackgroundImagesDirectoryAbsolutePath": "E:\\图片\\background",
+  "ExpandToIDE": false,
+  "Extensions": ".png, .jpg, .gif, .bmp",
+  "ImageBackgroundType": 1,
+  "ImageFadeAnimationInterval": "PT0S",
+  "ImageStretch": 0,
+  "IsLimitToMainlyEditorWindow": false,
+  "LoopSlideshow": true,
+  "MaxHeight": 0,
+  "MaxWidth": 0,
+  "Opacity": 0.35,
+  "PositionHorizon": 0,
+  "PositionVertical": 1,
+  "ShuffleSlideshow": true,
+  "SoftEdgeX": 0,
+  "SoftEdgeY": 0,
+  "UpdateImageInterval": "PT2M",
+  "ViewBoxPointX": 0,
+  "ViewBoxPointY": 0
+}
